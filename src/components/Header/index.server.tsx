@@ -4,7 +4,7 @@ const Header: React.FC = () => (
     <header>
         <nav style={{display: 'grid', gridAutoFlow: 'column', justifyContent: 'flex-start', gap: 8}}>
             <Link href='/'>
-                Page
+                Home
             </Link>
             <Link href='/dashboard/'>
                 Dashboard
